@@ -1,0 +1,13 @@
+_id,name,slug,image,page_title,page_content,status,createdAt,updatedAt
+652046956f9186df530e31a2,Subject 1,subject-1,img/icons/education.png,Subject 1,<p>Dummy Contents of Subject 1</p>,Active,2023-08-14T17:54:22.951Z,2023-10-09T09:44:21.140Z
+652046956f9186df530e31a3,Subject 2,subject-2,img/icons/education.png,Subject 1,<p>Dummy Contents of Subject 1</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31a4,Subject 3,subject-3,img/icons/education.png,Subject 3,<p>Dummy Contents of Subject 3</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31a5,Subject 4,subject-4,img/icons/education.png,Subject 4,<p>Dummy Contents of Subject 4</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31a6,Subject 5,subject-5,img/icons/education.png,Subject 5,<p>Dummy Contents of Subject 5</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31a7,Subject 6,subject-6,img/icons/education.png,Subject 6,<p>Dummy Contents of Subject 6</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31a8,Subject 7,subject-7,img/icons/education.png,Subject 7,<p>Dummy Contents of Subject 7</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31a9,Subject 8,subject-8,img/icons/education.png,Subject 8,<p>Dummy Contents of Subject 8</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31aa,Subject 9,subject-9,img/icons/education.png,Subject 9,<p>Dummy Contents of Subject 9</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31ab,Subject 10,subject-10,img/icons/education.png,Subject 10,<p>Dummy Contents of Subject 10</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31ac,Subject 11,subject-11,img/icons/education.png,Subject 11,<p>Dummy Contents of Subject 11</p>,Active,2023-08-14T17:54:22.951Z,2023-08-14T17:54:22.951Z
+652046956f9186df530e31ad,Subject 12,subject-12,img/icons/education.png,Subject 12,<p>Dummy Contents of Subject 12</p>,Active,2023-08-14T17:54:22.951Z,2023-10-27T11:13:30.142Z
